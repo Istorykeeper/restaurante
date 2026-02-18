@@ -1,6 +1,6 @@
 /*
 +=======================+
-+CODIGO FEITO POR SOLDAT+
++CODIGO FEITO POR istorykeeper+
 +=======================+
 */
 
